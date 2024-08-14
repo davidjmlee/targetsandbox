@@ -1,9 +1,4 @@
 
-window.targetGlobalSettings = {  
-	clientCode: "adobeinternalags508",
-	cookieDomain: "davidjmlee.github.io/targetsandbox/",
-	secureOnly: true
-}
 /**
  * @license
  * at.js 2.11.4 | (c) Adobe Systems Incorporated | All rights reserved
